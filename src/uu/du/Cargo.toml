@@ -15,7 +15,7 @@ edition = "2018"
 path = "src/du.rs"
 
 [dependencies]
-time = "0.1.40"
+time = "0.2.0"
 uucore = { version=">=0.0.7", package="uucore", path="../../uucore" }
 uucore_procs = { version=">=0.0.5", package="uucore_procs", path="../../uucore_procs" }
 
